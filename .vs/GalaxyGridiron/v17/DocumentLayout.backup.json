@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\controllers\\touchdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\touchdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\controllers\\gameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\gameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\player\\gif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\gif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|c:\\devgene\\newshared\\galaxy_gridiron\\project\\galaxygridiron\\assets\\scripts\\player\\touchdownobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\touchdownobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|c:\\devgene\\newshared\\galaxy_gridiron\\project\\galaxygridiron\\assets\\scripts\\controllers\\clientapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\clientapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|c:\\devgene\\newshared\\galaxy_gridiron\\project\\galaxygridiron\\assets\\scripts\\player\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\player\\aimmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\aimmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\player\\playercomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\assets\\scripts\\datamodels\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C3302B-B59D-2442-8199-6583C0F3E148}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datamodels\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TouchdownObject.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\TouchdownObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\TouchdownObject.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\TouchdownObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\TouchdownObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:32:12.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientAPIController.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\ClientAPIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\ClientAPIController.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\ClientAPIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\ClientAPIController.cs",
+              "ViewState": "AgIAADwAAACARjMzMzMrwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:40:28.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Ball.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Ball.cs",
+              "ViewState": "AgIAAAwAAADAAgAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:30:06.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AimMenu.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\AimMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AimMenu.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\AimMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\AimMenu.cs",
+              "ViewState": "AgIAAAUAAACUAwAAAAAqwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:07:06.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gif.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\Gif.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Gif.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\Gif.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Gif.cs",
+              "ViewState": "AgIAAA4AAAAADAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:00:44.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TouchdownController.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\TouchdownController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\TouchdownController.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\TouchdownController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\TouchdownController.cs",
+              "ViewState": "AgIAAGoAAACAagEAAAAQwLQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T07:44:04.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:18:23.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameUIController.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\GameUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\GameUIController.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\GameUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\GameUIController.cs",
+              "ViewState": "AgIAACIAAABA//////8jwD0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:26:35.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatsController.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\StatsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\StatsController.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\StatsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\StatsController.cs",
+              "ViewState": "AgIAAFIAAAAA4/////8TwIAAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:21:00.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\DataModels\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataModels\\Data.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\DataModels\\Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataModels\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:15:25.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerComposition.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\PlayerComposition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerComposition.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Player\\PlayerComposition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerComposition.cs",
+              "ViewState": "AgIAABwAAAAAUAAAAAAcwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:13:20.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAL4AAAAA/v////8wwNwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:21:40.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\InputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\InputController.cs",
+              "ToolTip": "C:\\DevGene\\NewShared\\Galaxy_Gridiron\\Project\\GalaxyGridiron\\Assets\\Scripts\\Controllers\\InputController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\InputController.cs",
+              "ViewState": "AgIAACgAAAAADAAAAAA0wDoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:21:00.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

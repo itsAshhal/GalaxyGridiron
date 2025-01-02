@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: fa34004c2524a4b4bbd59849acbd0f4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5186333811780189555
+    second: Aim your kick based on direction of the wind__0
+  - first:
+      213: 2847614743757274854
+    second: Aim your kick based on direction of the wind__1
+  - first:
+      213: -4094765796157176269
+    second: Aim your kick based on direction of the wind__2
+  - first:
+      213: 1723753087627390973
+    second: Aim your kick based on direction of the wind__3
+  - first:
+      213: -5669403714719732366
+    second: Aim your kick based on direction of the wind__4
+  - first:
+      213: -5596782611980001396
+    second: Aim your kick based on direction of the wind__5
+  - first:
+      213: -2707690262381316042
+    second: Aim your kick based on direction of the wind__6
+  - first:
+      213: 1473282912641238241
+    second: Aim your kick based on direction of the wind__7
+  - first:
+      213: -5121838413502182718
+    second: Aim your kick based on direction of the wind__8
+  - first:
+      213: -4592264965013392926
+    second: Aim your kick based on direction of the wind__9
+  - first:
+      213: 2258123173632443231
+    second: Aim your kick based on direction of the wind__10
+  - first:
+      213: -7661189589157073350
+    second: Aim your kick based on direction of the wind__11
+  - first:
+      213: 5569139433367090333
+    second: Aim your kick based on direction of the wind__12
+  - first:
+      213: 8988690564164336483
+    second: Aim your kick based on direction of the wind__13
+  - first:
+      213: -3560235416834301216
+    second: Aim your kick based on direction of the wind__14
+  - first:
+      213: 2661031006280428048
+    second: Aim your kick based on direction of the wind__15
+  - first:
+      213: 4319006231900901356
+    second: Aim your kick based on direction of the wind__16
+  - first:
+      213: -1096952338598827069
+    second: Aim your kick based on direction of the wind__17
+  - first:
+      213: 892525487182892635
+    second: Aim your kick based on direction of the wind__18
+  - first:
+      213: 5551560634215959193
+    second: Aim your kick based on direction of the wind__19
+  - first:
+      213: 8175136043716054731
+    second: Aim your kick based on direction of the wind__20
+  - first:
+      213: -2737627425248683898
+    second: Aim your kick based on direction of the wind__21
+  - first:
+      213: 5935290460873443101
+    second: Aim your kick based on direction of the wind__22
+  - first:
+      213: 7180469526811568349
+    second: Aim your kick based on direction of the wind__23
+  - first:
+      213: -5124824911126103115
+    second: Aim your kick based on direction of the wind__24
+  - first:
+      213: -3114908781668530110
+    second: Aim your kick based on direction of the wind__25
+  - first:
+      213: 3759118948436977413
+    second: Aim your kick based on direction of the wind__26
+  - first:
+      213: 1217921640971309347
+    second: Aim your kick based on direction of the wind__27
+  - first:
+      213: -2317877456771984015
+    second: Aim your kick based on direction of the wind__28
+  - first:
+      213: 6902780568626772780
+    second: Aim your kick based on direction of the wind__29
+  - first:
+      213: 5432318888250893370
+    second: Aim your kick based on direction of the wind__30
+  - first:
+      213: -2974991604866269318
+    second: Aim your kick based on direction of the wind__31
+  - first:
+      213: -5756824970077421628
+    second: Aim your kick based on direction of the wind__32
+  - first:
+      213: -2993444621706596991
+    second: Aim your kick based on direction of the wind__33
+  - first:
+      213: 7759081548566398783
+    second: Aim your kick based on direction of the wind__34
+  - first:
+      213: -8320775643532306011
+    second: Aim your kick based on direction of the wind__35
+  - first:
+      213: -4972118506645378637
+    second: Aim your kick based on direction of the wind__36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 99
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d828e3660e07608b0800000000000000
+      internalID: -5186333811780189555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 99
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee31daa582c48720800000000000000
+      internalID: 2847614743757274854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 99
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c1a114387c27c0800000000000000
+      internalID: -4094765796157176269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 99
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff6384ec400ce710800000000000000
+      internalID: 1723753087627390973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 99
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27da9d7fb5b3251b0800000000000000
+      internalID: -5669403714719732366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 99
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f59df0edb3452b0800000000000000
+      internalID: -5596782611980001396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 99
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6383af46d0a5c6ad0800000000000000
+      internalID: -2707690262381316042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 99
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e442a5d007227410800000000000000
+      internalID: 1473282912641238241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 99
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca804e79139be8b0800000000000000
+      internalID: -5121838413502182718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 99
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b7ed585ff440c0800000000000000
+      internalID: -4592264965013392926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 99
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f538077ff07765f10800000000000000
+      internalID: 2258123173632443231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e2f5dc8acfda590800000000000000
+      internalID: -7661189589157073350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 49
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94377edece894d40800000000000000
+      internalID: 5569139433367090333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bbbe8a17e3ebc70800000000000000
+      internalID: 8988690564164336483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2a3d650c0879ec0800000000000000
+      internalID: -3560235416834301216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a25a9f991ede420800000000000000
+      internalID: 2661031006280428048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefc62be84130fb30800000000000000
+      internalID: 4319006231900901356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 49
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb6842f8a7d6c0f0800000000000000
+      internalID: -1096952338598827069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec488a333e26c00800000000000000
+      internalID: 892525487182892635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a0c7fbbfa1b0d40800000000000000
+      internalID: 5551560634215959193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 49
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce00340beae37170800000000000000
+      internalID: 8175136043716054731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 49
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6885fae7c5ef10ad0800000000000000
+      internalID: -2737627425248683898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 49
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1740274a336e5250800000000000000
+      internalID: 5935290460873443101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 49
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8ee1aadf626a360800000000000000
+      internalID: 7180469526811568349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 49
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb714455e6f0e8b0800000000000000
+      internalID: -5124824911126103115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 49
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24807e077fe95c4d0800000000000000
+      internalID: -3114908781668530110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 49
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507a60654c21b2430800000000000000
+      internalID: 3759118948436977413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3211b56974de6e010800000000000000
+      internalID: 1217921640971309347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1755834dbbe35dfd0800000000000000
+      internalID: -2317877456771984015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bb77bca5a9bcf50800000000000000
+      internalID: 6902780568626772780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34e6d84f39736b40800000000000000
+      internalID: 5432318888250893370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f3d26c5e4b6b6d0800000000000000
+      internalID: -2974991604866269318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfbf60d036ab10b0800000000000000
+      internalID: -5756824970077421628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18def5cf9f52576d0800000000000000
+      internalID: -2993444621706596991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37869d1f8bcdab60800000000000000
+      internalID: 7759081548566398783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9d88733aaa68c80800000000000000
+      internalID: -8320775643532306011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim your kick based on direction of the wind__36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a146cf8c7ffab0800000000000000
+      internalID: -4972118506645378637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

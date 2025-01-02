@@ -1,0 +1,44 @@
+for the main logic of the game
+
+here are the main components
+
+1- Time (unit)
+2- Down
+3- To Go
+4- Ball on (number of total score remaining out of 50)
+
+when we select an option, its either correct or incorrect, here is the scenario:
+
+1- if CORRECT, then get random number of yards (1-15) 
+show it to the user, subtract
+these from the 'Ball on' if 
+these randomNumberOfYards >= 10 then your 'Down' is 
+still the same, otherwise your 'Down' 
+is increased by 1 (e.g it becomes 2 in this case).
+Also keep subtracting your randomNumberOfYards 
+from 'Ball on'.
+Also if randomNumberOfYards is < 10 then subtract them 
+from 'To Go' as well.
+
+2- if INCORRECT, then everything remains the same, 
+we start again from the same place, but the 
+'Down' is increased by 1 as well.
+
+
+
+
+TOUCHDOWN
+
+happens when the 'Ball on' are <= 0
+
+we need to show a touch down screen and then after 
+a certain while the football shot scene across the wind-
+direction
+
+
+A new requirement from the client for touchdown effect
+
+since we have time units from 15 to 1,
+split this into 50%
+ if we're in first 50% then the away score will always be 0 or 7
+ and vice versa for the remaining 50%
